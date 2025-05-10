@@ -2,6 +2,15 @@ Email: harshatejagarimella@gmail.com \
 Phone: +1 (814) 777-5285 \
 LinkedIn: https://www.linkedin.com/in/harshatejagarimella/
 
+
+# Menu
+| | | |
+|--|--|--|
+|[Education](#education)| [Work Experience](#work-experience) | [Research Experience](#research-experience)|
+| [Publications](#publications-in-peer-reviewed-journals) | [Patents](#patents) | [Conference Proceedings](#conference-proceedings) |
+| [Software Skills](#software-skills) | [Languages](#languages) | [Interests](#interests-and-extracurricular-activities) |
+
+
 # Education
 **Doctor of Philosophy (Ph.D.)**, Mechanical Engineering  
 *The Pennsylvania State University, State College, PA, USA*  
@@ -47,7 +56,7 @@ Conducted research on novel computational techniques for simulating biomechanics
 *2013 – 2014*  
 Graded and assisted teaching multiple courses. Responsibilities included managing student homework and assisting the professor with tests.
 
-# Research Experience, Roles and Responsibilities
+# Research Experience
 
 | Years         | Experience                                | 
 |---------------|-------------------------------------------|
