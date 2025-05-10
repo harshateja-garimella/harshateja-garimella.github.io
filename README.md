@@ -1,6 +1,15 @@
-Email: harshatejagarimella@gmail.com \
-Phone: +1 (814) 777-5285 \
-LinkedIn: https://www.linkedin.com/in/harshatejagarimella/
+<table>
+  <tr>
+    <td rowspan="3">
+      <img src="main.jpg" alt="Your Picture" width="60">
+    </td>
+    <td>
+      <strong>Email:</strong> harshatejagarimella@gmail.com<br>
+      <strong>Phone:</strong> +1 (814) 777-5285 <br>
+      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshatejagarimella/">linkedin.com/in/harshatejagarimella</a>
+    </td>
+  </tr>
+</table>
 
 # Navigate My Resume
 - [Education](#education)
@@ -100,14 +109,12 @@ Graded and assisted teaching multiple courses. Responsibilities included managin
 14. Gharahi, H., **Harsha T. Garimella** , et al. *Mathematical model of mechanobiology of acute and repeated synaptic injury...* Frontiers in Cellular Neuroscience, 17, 2023: 1007062.
 15. Matharoo, Namrata S., **Harsha T. Garimella** , et al. *Comparative evaluation of desoximetasone cream and ointment...* IJMS, 24(20), 2023: 15118.
 16. Spencer, R.W., et al., **Harsha T. Garimella** , et al. *FY18 NDAA Section 734...Blast Overpressure Tool...* Military Medicine, 188(Supplement 6), 2023: 536–544.
-17. **Garimella, Harsha T.** , et al. *Generation of Warfighter Avatars from Weapon Training Scene Images...* JoVE, 214, 2024.
+17. **Harsha T. Garimella** , et al. *Generation of Warfighter Avatars from Weapon Training Scene Images...* JoVE, 214, 2024.
 18. Norris, Carly, **Harsha T. Garimella** , et al. *Modeling biomarker kinetics of Aβ levels in serum following blast.* Frontiers in Neurology, 16, 2025: 1548589.
-19. **Harsha T. Garimella** , et al. *A two-fiber anisotropic constitutive model...* ASME IMECE Proceedings, 2014: V003T03A011.
-20. **Harsha T. Garimella** , Reuben H. Kraft. *Validation of embedded element method...* ASME IMECE Proceedings, 2016.
-21. **Garimella, Venkata Ravi Shankara, Harsha Teja** . *An embedded element based human head model...* Penn State, 2017 (Ph.D. Thesis).
+19. **Garimella, Venkata Ravi Shankara, Harsha Teja** . *An embedded element based human head model...* Penn State, 2017 (Ph.D. Thesis).
 
 # Patents 
-1. Andrzej Przekwas, **Harsha T. Garimella** , et al. *System and method for model-based calculation of blast exposure.* U.S. Patent 11,145,418, issued October 12, 2021.
+1. Andrzej Przekwas, **Harsha T. Garimella**, et al. *System and method for model-based calculation of blast exposure.* U.S. Patent 11,145,418, issued October 12, 2021.
 
 # Conference Proceedings
 - *Integrated Framework for Computing, Recording and Monitoring Blast Exposure during Military Training and in Operations*, MITRE Corp, McLean, VA, Mar 25, 2019.
