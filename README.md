@@ -1,4 +1,4 @@
-<div style="width: 100%; display: flex; justify-content: center;">
+<center>
   <table>
     <tr>
       <td rowspan="3">
@@ -11,7 +11,7 @@
       </td>
     </tr>
   </table>
-</div>
+</center>
 
 # Navigate My Resume
 - [Education](#education)
