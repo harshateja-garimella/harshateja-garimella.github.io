@@ -1,15 +1,17 @@
-<table>
-  <tr>
-    <td rowspan="3">
-      <img src="main.jpg" alt="Your Picture" width="60">
-    </td>
-    <td>
-      <strong>Email:</strong> harshatejagarimella@gmail.com<br>
-      <strong>Phone:</strong> +1 (814) 777-5285 <br>
-      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshatejagarimella/">linkedin.com/in/harshatejagarimella</a>
-    </td>
-  </tr>
-</table>
+<div style="width: 100%; display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td rowspan="3">
+        <img src="main.jpg" alt="Your Picture" width="60">
+      </td>
+      <td>
+        <strong>Email:</strong> harshatejagarimella@gmail.com<br>
+        <strong>Phone:</strong> +1 (814) 777-5285 <br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshatejagarimella/">linkedin.com/in/harshatejagarimella</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # Navigate My Resume
 - [Education](#education)
